@@ -1,0 +1,23 @@
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,.8) , rgba(0,0,0,.8)), url(../images/22.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.nav-item{
+    margin-left: 15px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+#offers{
+    min-height: 75vh;
+    background-image:linear-gradient(rgba(0,0,0,.8) , rgba(0,0,0,.8)), url(../images/33.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#services i{
+    color:#DC3545;
+}
+
